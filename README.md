@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on web application projects
 - 🤔 I’m looking for help with web design
 - 💬 Ask me about my projects and what I am currently learning in school
-- 📫 How to reach me: My [website](https://jamestariga.github.io/) or by email (earl.tariga@email.kpu.ca)
+- 📫 How to reach me: My [website](https://www.jamestariga.me/) or by email (earl.tariga@email.kpu.ca)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!--
