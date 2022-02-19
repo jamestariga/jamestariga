@@ -13,4 +13,5 @@
 Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=jamestariga&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamestariga&langs_count=5)](https://github.com/jamestariga/github-readme-stats)
