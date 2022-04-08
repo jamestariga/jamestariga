@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm James, I'm a Web Developer student at Kwantlen Polytechnic University
+
 - 🔭 I’m currently working on my computer science degree
 - 🌱 I’m currently learning web development and mobile development
 - 👯 I’m looking to collaborate on web application projects
@@ -12,6 +13,9 @@
 
 Here are some ideas to get you started:
 -->
-[![](https://github-readme-stats.vercel.app/api?username=jamestariga&show_icons=true&theme=dark)](https://github.com/jamestariga)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamestariga&theme=dark&layout=compact)](https://github.com/jamestariga)
+
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+  <img style="margin: 0 2rem 1.5rem 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=jamestariga&theme=black-ice">
+  <img style="margin: 0 2rem 1.5rem 0;" src="https://github-readme-stats.vercel.app/api?username=jamestariga&show_icons=true&theme=dark">
+</div>
