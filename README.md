@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamestariga&theme=dark&layout=compact)](https://github.com/jamestariga)
 
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
-  <img style="margin: 0 2rem 1.5rem 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=jamestariga&theme=black-ice">
-  <img style="margin: 0 2rem 1.5rem 0;" src="https://github-readme-stats.vercel.app/api?username=jamestariga&show_icons=true&theme=dark">
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; width: 100%;">
+  <img style="margin: 0 1rem 1.5rem 0; width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=jamestariga&theme=black-ice">
+  <img style="margin: 0 1rem 1.5rem 0; width: 400px" src="https://github-readme-stats.vercel.app/api?username=jamestariga&show_icons=true&theme=dark">
 </div>
