@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my computer science degree
 - 🌱 I’m currently learning web development and mobile development
+- 🏢 I'm currently working as an E-commerce Coordinator/Frontend at Microserve
 - 👯 I’m looking to collaborate on web application projects
 - 🤔 I’m looking for help with web design
 - 💬 Ask me about my projects and what I am currently learning in school
