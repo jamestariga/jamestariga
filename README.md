@@ -1,12 +1,10 @@
-### Hi there 👋 I'm James, I'm a Web Developer student at Kwantlen Polytechnic University
+### Hi there 👋 I'm James, I'm a Software Developer specializing in Full Stack Development
 
-- 🔭 I’m currently working on my computer science degree
-- 🌱 I’m currently learning web development and mobile development
-- 🏢 I'm currently working as an E-commerce Coordinator/Frontend at Microserve
-- 👯 I’m looking to collaborate on web application projects
-- 🤔 I’m looking for help with web design
-- 💬 Ask me about my projects and what I am currently learning in school
-- 📫 How to reach me: My [website](https://www.jamestariga.me/)
+- 🔭 I’m a computer science graduate from Kwantlen Polytechnic University
+- 🌱 I’m currently building hobby projects using NextJS and Supabase
+- 🏢 I'm currently looking for new opportunities!
+- 💬 Ask me about my projects and what I am currently learning!
+- 📫 How to reach me: My [linkedin](https://www.linkedin.com/in/james-tariga/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!--
