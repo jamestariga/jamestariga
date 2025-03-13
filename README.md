@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; width: 100%;">
   <img style="margin: 0 1rem 1.5rem 0; width: 400px; height: 200px; object-fit: cover;" 
-       src="https://github-readme-stats.vercel.app/api?username=jamestariga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
-  <img style="margin: 0 1rem 1.5rem 0; width: 400px; height: 200px; object-fit: cover;" 
        src="https://nirzak-streak-stats.vercel.app/?user=jamestariga&theme=tokyonight&hide_border=false">
+  <img style="margin: 0 1rem 1.5rem 0; width: 400px; height: 200px; object-fit: cover;" 
+       src="https://github-readme-stats.vercel.app/api?username=jamestariga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
 </div>
